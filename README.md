@@ -1,6 +1,8 @@
 # Exercise-01b-First-Twine-Project
 Exercise for MSCH-C220, 25 January 2021
 
+A demonstration of this exercise is available here: [https://youtu.be/qkRe_L_nuC4](https://youtu.be/qkRe_L_nuC4)
+
 This exercise is an opportunity for you to create your first project in Twine, the open-source tool for creating non-linear interactive stories (interactive fiction). You should have installed [Twine 2.3.11](https://twinery.org/) as part of your last exercise; if not, please do so now.
 
 Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-01b-First-Twine-Project. *Edit the LICENSE and replace BL-MSCH-C220-S21 with your full name.* Commit your changes.
